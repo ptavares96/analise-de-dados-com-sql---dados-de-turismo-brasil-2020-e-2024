@@ -1,7 +1,7 @@
 # Análise de Dados com SQL - Dados de Turismo no Brasil entre 2020 e 2024
 
 <p align="center">
-  <img src="https://i0.wp.com/jornaldecolombo.com.br/wp-content/uploads/2024/05/VIAGEM.webp?resize=874%2C470&ssl=1" width="150">
+  <img src="https://i0.wp.com/jornaldecolombo.com.br/wp-content/uploads/2024/05/VIAGEM.webp?resize=874%2C470&ssl=1" width="800">
 </p>
 
 Concluí a leitura do livro ["SQL - Guia Prático: um Guia para o uso de SQL"](https://www.amazon.com.br/SQL-Guia-Pr%C3%A1tico-Para-uso/dp/8575228315/ref=sr_1_2?crid=74GXG9QC59N8&dib=eyJ2IjoiMSJ9.0UjMDX8c08aJbOhWWqWyD2pR4cxA1JscGp0pYU1D-cTXqVnRLEdn9Dc4g_zI2nktd6OUxoUDhniEKxsG2lt8YrmZ2bc6LyYjCvgsdj8dz-9XSJW9PmO_wc2W7axRsDyMrrTyJtrSNJdlxbwWz9wolUoSCcEDnCJcwldRSnHIXjT7VPnstoTBoEEgpy2OpLoeY_a6YMde9OvM8gIFDnJVkXq9Ws-uBCChjDm0fBaUJQ83dQ2E6fjMweIvqF9L5qBUkP1gKYzO_kFBY8X40YrINBCkqlxuECnta-pbFjT2jeNtDjP3g3XO7sDFw9xI3yv1IYj6cyN65n4GZ7rkjpCvlmk-w30m0CdB6T0s9lG7IPaGr6FWn0aoSV_6wxy8HR_AgeDZWtOghO73HeKFEk1Qyly2GcewDlwNyQI2WAf6N1HRXMjs3byP-YLTkm2aznVG.Z0dYXog0z5PifcRxruTWBHCdryqKuiCFByYOJ3l6pMc&dib_tag=se&keywords=sql+na+pr%C3%A1tica&qid=1738342999&sprefix=sql+na+pra%2Caps%2C218&sr=8-2&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9) e para testar uma função que achei interessante, baixei os [dados do turismo brasileiro](https://dados.gov.br/dados/conjuntos-dados/estimativas-de-chegadas-de-turistas-internacionais-ao-brasil) referentes aos anos de 2020 a 2024.
